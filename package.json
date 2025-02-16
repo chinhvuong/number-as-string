@@ -1,0 +1,44 @@
+{
+  "name": "number-as-string",
+  "version": "1.0.0",
+  "description": "Precise number scaling and formatting without JavaScript floating-point precision issues",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "build": "tsc",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "number",
+    "precision",
+    "decimal",
+    "floating-point",
+    "scale",
+    "format",
+    "cryptocurrency",
+    "finance",
+    "bigint",
+    "scientific-notation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/number-as-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/number-as-string/issues"
+  },
+  "homepage": "https://github.com/yourusername/number-as-string#readme"
+}
