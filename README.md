@@ -13,13 +13,13 @@ To illustrate why this package is useful, here are some common JavaScript floati
 - **Multiplication with Small Numbers:**
 
   ```javascript
-  console.log(0.000000001 * 10 ** 18); // Expected: 1000000000, Result: 1000000000.0000001
+  console.log(0.000000001 * 10 ** 18); // Expected: 1000000000., Result: 1000000000.0000001
   ```
 
 - **Using toFixed:**
 
   ```javascript
-  console.log((0.2161).toFixed(18)); // Expected: '0.2161', Result: '0.216099999999999987'
+  console.log((0.2161).toFixed(18)); // Expected: '0.216100000000000000', Result: '0.216099999999999987'
   ```
 
 - **Division of Large Numbers:**
