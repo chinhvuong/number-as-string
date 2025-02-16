@@ -1,6 +1,6 @@
 {
   "name": "number-as-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Precise number scaling and formatting without JavaScript floating-point precision issues",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/number-as-string.git"
+    "url": "git+https://github.com/chinhvuong/number-as-string.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/number-as-string/issues"
+    "url": "https://github.com/chinhvuong/number-as-string/issues"
   },
-  "homepage": "https://github.com/yourusername/number-as-string#readme"
+  "homepage": "https://github.com/chinh/number-as-string#readme"
 }
