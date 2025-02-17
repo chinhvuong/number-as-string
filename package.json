@@ -36,10 +36,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chinhvuong/number-as-string.git"
-  },
+  "repository": "https://github.com/chinhvuong/number-as-string.git",
   "bugs": {
     "url": "https://github.com/chinhvuong/number-as-string/issues"
   },
