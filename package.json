@@ -1,6 +1,6 @@
 {
   "name": "number-as-string",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Precise number scaling and formatting without JavaScript floating-point precision issues",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,6 +32,9 @@
     "@types/jest": "^29.5.14",
     "ts-jest": "^29.2.5",
     "typescript": "^5.7.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
