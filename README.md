@@ -141,7 +141,3 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-I adjusted the flow to highlight the package’s precision advantages and made the usage examples more compact and clear! Let me know if you'd like more enhancements. 🚀
